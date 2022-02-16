@@ -1,4 +1,4 @@
-# Stores-App
+# Stores-App 🛠 Still Inprogress 
 #### This is a full stack web app with Node.js, Express, MongoDB, Passport JS and a few other technologies
 
 #### It's a Stores application which users can search, geolocate, review and curate their favourite stores from around the world.
