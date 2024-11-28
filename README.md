@@ -7,3 +7,5 @@
 
 
 ## How to use MarketRadar Web App
+
+First you need to run npm install
